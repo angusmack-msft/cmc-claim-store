@@ -2,7 +2,7 @@ buildscript {
   repositories { mavenCentral() }
 }
 
-def springBootVersion = '1.5.7.RELEASE'
+def springBootVersion = '2.0.0.M4'
 
 def versions = [
   springBoot: springBootVersion,
